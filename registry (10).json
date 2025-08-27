@@ -1,0 +1,22 @@
+[
+  {
+    "name": "satu",
+    "url": "satu.json"
+  },
+  {
+    "name": "dua",
+    "url": "dua.json"
+  },
+  {
+    "name": "tiga",
+    "url": "tiga.json"
+  },
+  {
+    "name": "dataset",
+    "url": "empat"
+  },
+  {
+    "name": "coba1",
+    "url": "coba1"
+  }
+]
